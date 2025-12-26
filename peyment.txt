@@ -1,0 +1,4 @@
+cart payment
+cash payment
+uip payment 
+transction history.
