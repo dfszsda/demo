@@ -2,3 +2,4 @@ cart payment
 cash payment
 uip payment 
 transction history.
+add credit and debit cart sections
